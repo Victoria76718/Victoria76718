@@ -1,0 +1,57 @@
+Server ready at http://localhost:60878/
+Server commands: [b]rowser, [q]uit
+server> print("Hola, Mundo")
+Server commands: [b]rowser, [q]uit
+server>
+Server commands: [b]rowser, [q]uit
+server> a = 10
+Server commands: [b]rowser, [q]uit
+server> b = 5
+Server commands: [b]rowser, [q]uit
+server> suma = a + b
+Server commands: [b]rowser, [q]uit
+server> resta = a - b
+Server commands: [b]rowser, [q]uit
+server> multiplicacion = a * b
+Server commands: [b]rowser, [q]uit
+server> division = a / b
+Server commands: [b]rowser, [q]uit
+server> print(f"Suma: {suma}, Resta: {resta}, Multiplicación: {multiplicacion}, División: {division}")
+Server commands: [b]rowser, [q]uit
+server> numero = 10
+Server commands: [b]rowser, [q]uit
+server> if numero > 0:
+Server commands: [b]rowser, [q]uit
+server>     print("El número es positivo")
+Server commands: [b]rowser, [q]uit
+server> elif numero == 0:
+Server commands: [b]rowser, [q]uit
+server>     print("El número es cero")
+Server commands: [b]rowser, [q]uit
+server> else:
+Server commands: [b]rowser, [q]uit
+server>     print("El número es negativo")
+Server commands: [b]rowser, [q]uit
+server> for i in range(5):
+Server commands: [b]rowser, [q]uit
+server>     print(f"Iteración {i}")
+Server commands: [b]rowser, [q]uit
+server>
+Server commands: [b]rowser, [q]uit
+server> i = 0
+Server commands: [b]rowser, [q]uit
+server> while i < 5:
+Server commands: [b]rowser, [q]uit
+server>     print(f"Iteración {i}")
+Server commands: [b]rowser, [q]uit
+server>     i += 1
+Server commands: [b]rowser, [q]uit
+server> def saludar(nombre):
+Server commands: [b]rowser, [q]uit
+server>     return f"Hola, {nombre}"
+Server commands: [b]rowser, [q]uit
+server>
+Server commands: [b]rowser, [q]uit
+server> print(saludar("Mundo"))
+Server commands: [b]rowser, [q]uit
+server>
